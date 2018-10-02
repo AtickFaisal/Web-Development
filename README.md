@@ -22,3 +22,13 @@ Express your feelings via an API endpoint
 MEN will be MEN
 ---
 * [RESTful CRUD (Create, Retrieve, Update, Delete) API - Node.js, Express and MongoDB](https://github.com/SaadAAkash/-1/tree/master/MERN/01BasicCRUD)
+
+React Rants
+---
+* Don't **React** Just Yet! [ReactJS vs Angular5 vs Vue.js](https://medium.com/@TechMagic/reactjs-vs-angular5-vs-vue-js-what-to-choose-in-2018-b91e028fa91d)
+* ReactJS Codes
+  * [First React JS app](https://github.com/avastamin/miib-reactjs-fundamental)
+  * [FB React App Basic Template](https://github.com/facebook/create-react-app)
+  * [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
+* React-Redux Resources
+  * [General Resources](https://github.com/enaqx/awesome-react)
