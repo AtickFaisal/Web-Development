@@ -14,4 +14,8 @@ Noble NodeJS
 * [Notes and Tutorials on Basics & MicroServices](https://github.com/SaadAAkash/-1/tree/master/NodeJS/tuts)
 * [Definitive NodeJS Handbook](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
 
+Express your feelings via an API endpoint
+---
+* [Intorduction to Express - A NodeJS Framework](https://github.com/SaadAAkash/-1/tree/master/Express/01HelloWorld)
+* [Routing with Express](https://github.com/SaadAAkash/-1/tree/master/Express/02RoutingAPI)
 
