@@ -19,3 +19,6 @@ Express your feelings via an API endpoint
 * [Intorduction to Express - A NodeJS Framework](https://github.com/SaadAAkash/-1/tree/master/Express/01HelloWorld)
 * [Routing with Express](https://github.com/SaadAAkash/-1/tree/master/Express/02RoutingAPI)
 
+MEN will be MEN
+---
+* [RESTful CRUD (Create, Retrieve, Update, Delete) API - Node.js, Express and MongoDB](https://github.com/SaadAAkash/-1/tree/master/MERN/01BasicCRUD)
