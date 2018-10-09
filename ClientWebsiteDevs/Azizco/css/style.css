@@ -399,6 +399,53 @@ textarea.input-bg {background-color: #f7f7f7; border-radius: 4px; border: 1px so
     top: 50%;
     transform: perspective(1px) translateY(-50%); 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+* {
+    box-sizing: border-box;
+}
+
+/* Create three unequal columns that floats next to each other */
+.column {
+    float: left;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+}
+
+.left, .right, .middle {
+  width: 33.33%;
+}
+
+.left-right {
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+
+
+
+
+
+
+
 .vertical-align-top {vertical-align: top;}
 .vertical-align-bottom {vertical-align: bottom;}
 .vertical-middle {-webkit-transform: translateY(-50%); -ms-transform: translateY(-50%); transform: translateY(-50%); -moz-transform: translateY(-50%); -o-transform: translateY(-50%); position: absolute; top: 50%; left:0; right: 0}
